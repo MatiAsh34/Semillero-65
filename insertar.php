@@ -15,14 +15,14 @@
             echo "Libro insertado con éxito.";
             echo '<script>
                     setTimeout(function(){
-                        window.location.href = "index.php";
+                        window.location.href = "index.html";
                     }, 3000);
                   </script>';
         } else {
             echo "Error: El libro ya existe o hubo un problema al insertar.";
             echo '<script>
                     setTimeout(function(){
-                        window.location.href = "index.php";
+                        window.location.href = "index.html";
                     }, 3000);
                   </script>';
         }

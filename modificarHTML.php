@@ -29,6 +29,6 @@
         
     </form>
 
-    <a href="index.php">Regresar al Inicio</a>
+    <a href="index.html">Regresar al Inicio</a>
 </body>
 </html>

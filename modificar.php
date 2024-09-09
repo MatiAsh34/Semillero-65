@@ -15,14 +15,14 @@
         echo "Libro actualizado exitosamente.";
         echo '<script>
                     setTimeout(function(){
-                        window.location.href = "index.php";
+                        window.location.href = "index.html";
                     }, 3000);
                   </script>';
     } else {
         echo "Error al actualizar el libro.";
         echo '<script>
                     setTimeout(function(){
-                        window.location.href = "index.php";
+                        window.location.href = "index.html";
                     }, 3000);
                   </script>';
     }
